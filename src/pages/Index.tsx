@@ -246,8 +246,8 @@ export default function Index() {
                   </div>
                   <div>
                     <h3 className="font-semibold mb-1">Телефон</h3>
-                    <a href="tel:+79001234567" className="text-primary hover:underline">
-                      +7 (900) 123-45-67
+                    <a href="tel:+79959858268" className="text-primary hover:underline">
+                      +7 (995) 985-82-68
                     </a>
                   </div>
                 </div>
@@ -257,8 +257,8 @@ export default function Index() {
                   </div>
                   <div>
                     <h3 className="font-semibold mb-1">Telegram</h3>
-                    <a href="https://t.me/accanto" className="text-primary hover:underline">
-                      @accanto
+                    <a href="https://t.me/accantosave" className="text-primary hover:underline">
+                      @accantosave
                     </a>
                   </div>
                 </div>
