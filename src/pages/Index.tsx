@@ -176,7 +176,7 @@ export default function Index() {
               Мы предлагаем поддержку в разных форматах
             </p>
           </div>
-          <div className="grid md:grid-cols-3 gap-8">
+          <div className="grid md:grid-cols-2 gap-8 max-w-3xl mx-auto">
             <Card className="border-2 hover:shadow-lg transition-all hover:-translate-y-1">
               <CardContent className="pt-6 text-center">
                 <div className="w-16 h-16 rounded-full bg-primary/10 flex items-center justify-center mx-auto mb-4">
@@ -196,17 +196,6 @@ export default function Index() {
                 <h3 className="text-xl font-semibold mb-3">Переписка</h3>
                 <p className="text-muted-foreground">
                   Общение в удобном для вас темпе через мессенджеры или почту
-                </p>
-              </CardContent>
-            </Card>
-            <Card className="border-2 hover:shadow-lg transition-all hover:-translate-y-1">
-              <CardContent className="pt-6 text-center">
-                <div className="w-16 h-16 rounded-full bg-primary/10 flex items-center justify-center mx-auto mb-4">
-                  <Icon name="Coffee" className="text-primary" size={28} />
-                </div>
-                <h3 className="text-xl font-semibold mb-3">Личные встречи</h3>
-                <p className="text-muted-foreground">
-                  Встреча в комфортной обстановке для живого общения
                 </p>
               </CardContent>
             </Card>
