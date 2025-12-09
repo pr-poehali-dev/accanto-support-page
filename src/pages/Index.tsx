@@ -283,7 +283,7 @@ export default function Index() {
             Мы рядом, когда вам это нужно
           </p>
           <p className="text-sm text-muted-foreground">
-            © 2024 Accanto. Все права защищены.
+            © 2025 Accanto. Все права защищены.
           </p>
         </div>
       </footer>
